@@ -14,7 +14,17 @@ I enjoy both sides of building: making things **actually work** and making them 
 
 Most of my projects start with a simple thought: *“What if I built this myself?”*
 
-### What I'm building
+### Current focus — SHIFT
+
+**Performance without compromise.**
+
+SHIFT is a PC optimization tool currently in development, with a focus on performance, system stability, safety, and user control.
+
+The goal is simple: practical optimization without unnecessary complexity or misleading performance claims.
+
+**In development** · Project links to follow.
+
+### Other projects
 
 | Project | What I'm exploring |
 |---|---|
@@ -33,10 +43,6 @@ Most of my projects start with a simple thought: *“What if I built this myself
 - **Make it feel human.** Clear writing, intuitive flows, and details that make the experience easier.
 - **Keep improving.** Build, test, break things, fix them, and ship a better version.
 - **Stay curious.** There's always something new to learn.
-
-### Currently focused on
-
-Local AI, smarter desktop software, and building better developer and user experiences.
 
 ---
 
